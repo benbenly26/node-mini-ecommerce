@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Realme 6pro",
+    "price": 16000,
+    "description": "good mobile for mid range",
+    "ratings": 7.5,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      },
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Mobile",
+    "Seller": "Amazon",
+    "Stock": 260
+  },
+  {
+    "name": "Samsung Galaxy S21",
+    "price": 65000,
+    "description": "Flagship phone with excellent performance",
+    "ratings": 9.2,
+    "images": [
+      {
+        "image": "/images/products/3.jpg"
+      },
+      {
+        "image": "/images/products/4.jpg"
+      }
+    ],
+    "category": "Mobile",
+    "Seller": "Flipkart",
+    "Stock": 50
+  },
+  {
+    "name": "iPhone 13",
+    "price": 70000,
+    "description": "Latest iPhone with superior camera and performance",
+    "ratings": 9.5,
+    "images": [
+      {
+        "image": "/images/products/5.jpg"
+      },
+      {
+        "image": "/images/products/6.jpg"
+      }
+    ],
+    "category": "Mobile",
+    "Seller": "Apple Store",
+    "Stock": 120
+  },
+  {
+    "name": "OnePlus 9 Pro",
+    "price": 55000,
+    "description": "High-end phone with a powerful processor and camera",
+    "ratings": 8.8,
+    "images": [
+      {
+        "image": "/images/products/7.jpg"
+      },
+      {
+        "image": "/images/products/8.jpg"
+      }
+    ],
+    "category": "Mobile",
+    "Seller": "OnePlus Store",
+    "Stock": 150
+  },
+  {
+    "name": "Xiaomi Mi 11 Ultra",
+    "price": 60000,
+    "description": "Premium phone with an amazing camera and display",
+    "ratings": 8.5,
+    "images": [
+      {
+        "image": "/images/products/9.jpg"
+      },
+      {
+        "image": "/images/products/10.jpg"
+      }
+    ],
+    "category": "Mobile",
+    "Seller": "Mi Store",
+    "Stock": 200
+  },
+  {
+    "name": "Google Pixel 6",
+    "price": 58000,
+    "description": "Best-in-class camera and pure Android experience",
+    "ratings": 9.0,
+    "images": [
+      {
+        "image": "/images/products/11.jpg"
+      },
+      {
+        "image": "/images/products/12.jpg"
+      }
+    ],
+    "category": "Mobile",
+    "Seller": "Google Store",
+    "Stock": 90
+  },
+  {
+    "name": "Oppo Reno6 Pro",
+    "price": 39000,
+    "description": "Stylish phone with fast charging and good camera",
+    "ratings": 8.3,
+    "images": [
+      {
+        "image": "/images/products/13.jpg"
+      },
+      {
+        "image": "/images/products/14.jpg"
+      }
+    ],
+    "category": "Mobile",
+    "Seller": "Oppo Store",
+    "Stock": 300
+  }
+]
